@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Import;
 
 /**
  * @author liumapp
- * @file SpringSessionRedisDemoApplication.java
+ * @file SpringSessionRedisInDocker.java
  * @email liumapp.com@gmail.com
  * @homepage http://www.liumapp.com
  * @date 5/5/18
@@ -18,9 +18,9 @@ import org.springframework.context.annotation.Import;
 		Main.class,
 		RedisConfig.class
 })
-public class SpringSessionRedisDemoApplication {
+public class SpringSessionRedisInDocker {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringSessionRedisDemoApplication.class, args);
+		SpringApplication.run(SpringSessionRedisInDocker.class, args);
 	}
 }
