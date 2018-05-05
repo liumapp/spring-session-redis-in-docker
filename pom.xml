@@ -3,20 +3,20 @@
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.selzlein.djeison</groupId>
-	<artifactId>spring-session-redis-demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
-
-	<name>spring-session-redis-demo</name>
-	<description>Demo project for Spring Boot</description>
-
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.8.RELEASE</version>
+		<version>1.5.6.RELEASE</version>
 		<relativePath />
 	</parent>
+
+	<groupId>com.liumapp.docker.redis</groupId>
+	<artifactId>spring-session-redis-in-docker</artifactId>
+	<version>v1.0.0</version>
+	<packaging>jar</packaging>
+
+	<name>spring-session-redis-in-docker</name>
+	<description>Running Spring Session Redis in Docker</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
