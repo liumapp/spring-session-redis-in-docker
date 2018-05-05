@@ -1,4 +1,4 @@
-package com.selzlein.djeison.springsessionredisdemo.config;
+package com.liumapp.docker.redis.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

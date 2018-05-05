@@ -1,4 +1,4 @@
-package com.selzlein.djeison.springsessionredisdemo;
+package com.liumapp.docker.redis;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

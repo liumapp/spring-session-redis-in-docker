@@ -1,4 +1,4 @@
-package com.selzlein.djeison.springsessionredisdemo;
+package com.liumapp.docker.redis;
 
 import com.liumapp.redis.operator.Main;
 import com.liumapp.redis.operator.config.RedisConfig;
