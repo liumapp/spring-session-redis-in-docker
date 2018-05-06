@@ -19,4 +19,4 @@ Running Spring Session Redis in Docker .
     
     plz pay attention , we use commonds to set redis password in docker-compose.yml .                
     
-    
+* run the project , and you can see how Spring Session working with Redis .     
